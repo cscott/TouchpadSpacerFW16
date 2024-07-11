@@ -220,7 +220,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Touchpad-Spacer.kicad_pro",
+    "filename": "ThinkpadClickpad.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -258,7 +258,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Touchpad-Spacer.step",
+      "step": "ThinkpadClickpad.step",
       "svg": "",
       "vrml": ""
     },

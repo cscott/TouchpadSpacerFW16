@@ -1,5 +1,5 @@
 # Touchpad Input Module parts
-![image](touchpad-bottom.png)
+![image](ThinkpadClickpad/touchpad-bottom.png)
 
 This repository contains parts related to the Touchpad Input Module for
 the Framework 16 laptop.  The top surface of the touchpad area modules
