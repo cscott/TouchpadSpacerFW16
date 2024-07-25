@@ -39,6 +39,12 @@ you'll need two latch pieces, two "medium" side rail pieces,
 and one "long side rail" piece.  (You could also use *four* latch
 pieces, but that's probably overkill.)
 
+I recommend having JLCPCB print the physical pieces as well as
+the PCB.  Shipping can be combined, and the latch pieces in particular
+have some fine details which can be a challenge to 3d print at home.
+(It's definitely possible, though!)  I had the pieces SLS printed
+in 3201PA-F black nylon, and the pieces cost about $1 each.
+
 In any case, you glue the appropriate rail parts to the "front" edge
 of the PCB, with the "long" rail in the center, and carefully align
 and glue the latch parts to leave a 2.9mm gap between the bump in the
