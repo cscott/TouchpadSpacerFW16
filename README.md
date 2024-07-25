@@ -54,11 +54,13 @@ get aligned properly.
 
 ![image](./images/latches-installed.jpg)
 
-The latch piece has a cutout for a 3mm x 1.5mm disc magnet, to secure
+The latch piece has a cutout for a
+[3mm x 1.5mm disc magnet](https://www.aliexpress.us/item/3256806207685537.html), to secure
 itself to a matching magnet in the FW 16 midplate.  It also contains
-cutouts for 8mm x 1.5mm rubber bumpers, which take the place of some
+cutouts for
+[8mm x 1.5mm rubber bumpers](https://www.aliexpress.us/item/3256802433818462.html), which take the place of some
 rubberized material in the middle section of the Framework-fabricated
-touchpad area modules.
+touchpad area modules and ensure a snug fit.
 
 ![image](./images/latch-detail.jpg)
 
