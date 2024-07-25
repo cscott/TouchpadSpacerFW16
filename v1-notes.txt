@@ -1,0 +1,2 @@
+x Trim down latch piece by 2.5mm - 3.0mm
+x Make double-width "side rail"
